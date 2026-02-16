@@ -599,25 +599,7 @@ Network-Security-System/
 
 ---
 
-## 🎯 Resume-Ready Highlights
 
-- **Designed and deployed** an end-to-end MLOps pipeline for network intrusion detection achieving 95% accuracy, reducing false positives by 60% compared to traditional rule-based systems
-
-- **Engineered** a modular ML architecture with 5 independent components (ingestion, validation, transformation, training, evaluation) following software engineering best practices and enabling 40% faster iteration cycles
-
-- **Implemented** automated CI/CD pipeline using GitHub Actions and Docker, reducing deployment time from hours to minutes and ensuring zero-downtime model updates
-
-- **Built** production-ready Flask REST API serving real-time threat predictions with sub-second latency, processing 1000+ network traffic records per second
-
-- **Established** schema-based validation framework and artifact versioning system ensuring data quality and model reproducibility across development lifecycle
-
----
-
-## 📝 License
-
-This project is part of a portfolio demonstration. All rights reserved.
-
----
 
 ## 👤 Author
 
@@ -631,12 +613,8 @@ IIT Roorkee
 
 ---
 
-## 🙏 Acknowledgments
-
-- Network traffic dataset sourced from [KDD Cup 1999 / NSL-KDD]
-- Inspired by modern MLOps practices and cybersecurity research
-- Built with guidance from industry best practices in ML system design
 
 ---
 
 **Note**: This system is for educational and demonstration purposes. For production deployment in critical security environments, conduct thorough security audits and comply with organizational security policies.
+
